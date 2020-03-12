@@ -3,6 +3,6 @@
 .LSOverride
 .vs
 .json
-
+.scss
 node_modules/
 app/scss/

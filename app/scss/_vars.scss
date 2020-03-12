@@ -1,0 +1,22 @@
+$blue: #008aff;
+$red: #d60505;
+$yellow: #ffd52a;
+
+
+
+@mixin gothamli {
+  font-family: "GothamPro-Light", sans-serif;
+  font-weight: normal;
+}
+@mixin gothamme {
+  font-family: "GothamPro-Medium", sans-serif;
+  font-weight: normal;
+}
+@mixin gothambo {
+  font-family: "GothamPro-Bold", sans-serif;
+  font-weight: normal;
+}
+@mixin gothambl {
+  font-family: "GothamPro-Black", sans-serif;
+  font-weight: normal;
+}
